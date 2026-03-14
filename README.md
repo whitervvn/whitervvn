@@ -62,7 +62,7 @@ Hi, I'm Pao!
 <!-- Mis redes/contacto -->
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;***Connect With Me***
 
-<a href="https://www.instagram.com/v4mpcrw/">
+<a href="https://www.instagram.com/whitervn_/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="mailto:pparrap@ing.ucsc.cl">
