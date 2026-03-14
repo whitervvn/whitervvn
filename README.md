@@ -11,9 +11,9 @@ Hi, I'm Pao!
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;***About me***
 
-- 🌸I'm a student of Computer Science. Although I am just starting my career, I strive every day to improve my skills.
-- 🌸My goal is to expand my knowledge in these areas and develop projects that combine my love for programming and engineering.
-- 🌸Outside of programming, I enjoy writing, drawing and reading about science, always looking for new ways to learn, grow and create. 
+- 🌸I'm a student of Computer Science.
+- 🌸I upload my meager progress in competitive programming, I practice once every thousand years and it takes me five decades to understand what to do.
+- 🌸Among other things, I upload the occasional project that will never see the light of day.
 <hr>
 <hr>
 <hr>
