@@ -62,19 +62,19 @@ Hi, I'm Pao!
 <!-- Mis redes/contacto -->
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;***Connect With Me***
 
-<a href="https://www.instagram.com/whitervn_/">
+<!--<a href="https://www.instagram.com/whitervn_/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="mailto:pparrap@ing.ucsc.cl">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+</a>-->
 <!-- ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)()  falta tunear -->
-<a href="https://cl.pinterest.com/vampcrw/">
+<!--<a href="https://cl.pinterest.com/vampcrw/">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest">
 </a>
 <a href="https://x.com/v4mpcrw">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-</a>
+</a>-->
 <a>
     <img src="https://img.shields.io/badge/Discord-m_moritaa2705-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
